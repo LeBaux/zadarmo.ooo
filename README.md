@@ -1,6 +1,6 @@
 # Zadarmo GatsbyJS on Netlify
 
-A [GatsbyJS](https://www.gatsbyjs.org/) project that I am using as a scaffolding to learn bit about headless CMS. <br /><br />
+A [GatsbyJS](https://www.gatsbyjs.org/) project that I am using as a scaffolding to learn bit about headless CMS. <br />
 
 See the starter in action » [demo website](https://gatsby-starter-personal-blog.greglobinski.com/) <br />For more information visit » [dev.greglobinski.com/gatsby-starter-personal-blog](https://dev.greglobinski.com/gatsby-starter-personal-blog/)
 
