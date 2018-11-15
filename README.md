@@ -1,21 +1,6 @@
-# PersonalBlog
+# zadarmo.netlify.com
 
-A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
-
-[![GitHub license][mit-badge]][mit]
-[![GitHub tag][tag-badge]][tag]
-[![GitHub stars][stars-badge]][stars]
-![contributors][contributors-badge]
-[![PRs Welcome][prs-badge]][prs]
-[![Code of Conduct][coc-badge]][coc]
-[![code style prettier][prettier-badge]][prettier]
-[![Tweet][twitter-badge]][twitter]
-
-  <br />
-
-![](static/screens/gatsby-starter-personal-blog.gif) <br />
-
-  <br />
+A [GatsbyJS](https://www.gatsbyjs.org/) project starter. <br /><br />
 
 See the starter in action » [demo website](https://gatsby-starter-personal-blog.greglobinski.com/) <br />For more information visit » [dev.greglobinski.com/gatsby-starter-personal-blog](https://dev.greglobinski.com/gatsby-starter-personal-blog/)
 
@@ -137,7 +122,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [coc]: https://github.com/greglobinski/gatsby-starter-personal-blog/blob/master/CODE_OF_CONDUCT.md
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
-[twitter]: https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgreglobinski%2Fgatsby-starter-personal-blog
+[twitter]: https://twitter.com/intent/tweet?text=Wow:&amp;url=https%3A%2F%2Fgithub.com%2Fgreglobinski%2Fgatsby-starter-personal-blog
 [twitter-badge]: https://img.shields.io/twitter/url/https/github.com/greglobinski/gatsby-starter-personal-blog.svg?style=social
 [tag-badge]: https://img.shields.io/github/tag/greglobinski/gatsby-starter-personal-blog.svg
 [tag]: https://github.com/greglobinski/gatsby-starter-personal-blog
